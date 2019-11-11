@@ -1,0 +1,12 @@
+{
+	"banner": [
+		{
+			"bannerId": 1,
+			"img":"https://static.maizuo.com/v5/upload/b43a16925b3c56107bec4b866a2623ca.jpg"
+		},
+		{
+			"bannerId": 2,
+			"img": "https://static.maizuo.com/v5/upload/2fd9cd71b8b73608d28d38435f45ed48.jpg"
+		}
+	]
+}
